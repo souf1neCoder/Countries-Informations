@@ -18,6 +18,7 @@ export default {
 .footer-main p{
     color:#fff;
     line-height:50px;
+    margin-bottom:0 !important;
 }
 .footer-main{
     background-color: var(--primary-color);
